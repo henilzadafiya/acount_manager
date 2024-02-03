@@ -12,6 +12,7 @@ class view extends StatefulWidget {
 
   view(this.data);
 
+
   @override
   State<view> createState() => _viewState();
 }
